@@ -26,3 +26,6 @@ var nome, pedido_lanche1, pedido_lanche2, pedido_lanche3, numero_do_pedido,
 
    }
 
+
+
+  
