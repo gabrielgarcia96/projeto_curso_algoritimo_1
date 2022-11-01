@@ -18,7 +18,7 @@ Inicio
 // Seção de Declarações das variáveis
        
 
-
+// INICIO: Seção de Comandos, procedimento, funções, operadores, etc... 
    // valor01 = 10
    // valor02 = 10
    // valor03 = 10
